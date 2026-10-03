@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Bakery"
+  },
+  {
+    "id": 2,
+    "name": "Grocery"
+  },
+  {
+    "id": 3,
+    "name": "Hot Food"
+  },
+  {
+    "id": 4,
+    "name": "Produce"
+  },
+  {
+    "id": 5,
+    "name": "Checkout"
+  },
+  {
+    "id": 6,
+    "name": "Dairy"
+  },
+  {
+    "id": 7,
+    "name": "Frozen"
+  },
+  {
+    "id": 8,
+    "name": "Homeware"
+  },
+  {
+    "id": 9,
+    "name": "Clothing"
+  },
+  {
+    "id": 10,
+    "name": "Customer Service"
+  }
+]

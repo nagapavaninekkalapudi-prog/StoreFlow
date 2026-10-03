@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Replenish milk",
+    "assignedToId": 1,
+    "departmentId": 2,
+    "storeId": 1,
+    "priority": "High",
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "title": "Check bakery stock",
+    "assignedToId": 2,
+    "departmentId": 1,
+    "storeId": 2,
+    "priority": "Medium",
+    "status": "In Progress"
+  },
+  {
+    "id": 3,
+    "title": "Clean coffee machine",
+    "assignedToId": 3,
+    "departmentId": 3,
+    "storeId": 3,
+    "priority": "Low",
+    "status": "Completed"
+  }
+]

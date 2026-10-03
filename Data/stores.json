@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "name": "Aylesbury Store 1",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 2,
+    "name": "Watford Store 1",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 3,
+    "name": "High Wycombe Store 1",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 4,
+    "name": "Milton Keynes Store 1",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 5,
+    "name": "Oxford Store 1",
+    "location": "Oxfordshire"
+  },
+  {
+    "id": 6,
+    "name": "Reading Store 1",
+    "location": "Berkshire"
+  },
+  {
+    "id": 7,
+    "name": "Slough Store 1",
+    "location": "Berkshire"
+  },
+  {
+    "id": 8,
+    "name": "Hemel Hempstead Store 1",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 9,
+    "name": "St Albans Store 1",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 10,
+    "name": "Luton Store 1",
+    "location": "Bedfordshire"
+  },
+  {
+    "id": 11,
+    "name": "Aylesbury Store 2",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 12,
+    "name": "Watford Store 2",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 13,
+    "name": "High Wycombe Store 2",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 14,
+    "name": "Milton Keynes Store 2",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 15,
+    "name": "Oxford Store 2",
+    "location": "Oxfordshire"
+  },
+  {
+    "id": 16,
+    "name": "Reading Store 2",
+    "location": "Berkshire"
+  },
+  {
+    "id": 17,
+    "name": "Slough Store 2",
+    "location": "Berkshire"
+  },
+  {
+    "id": 18,
+    "name": "Hemel Hempstead Store 2",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 19,
+    "name": "St Albans Store 2",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 20,
+    "name": "Luton Store 2",
+    "location": "Bedfordshire"
+  },
+  {
+    "id": 21,
+    "name": "Aylesbury Store 3",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 22,
+    "name": "Watford Store 3",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 23,
+    "name": "High Wycombe Store 3",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 24,
+    "name": "Milton Keynes Store 3",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 25,
+    "name": "Oxford Store 3",
+    "location": "Oxfordshire"
+  },
+  {
+    "id": 26,
+    "name": "Reading Store 3",
+    "location": "Berkshire"
+  },
+  {
+    "id": 27,
+    "name": "Slough Store 3",
+    "location": "Berkshire"
+  },
+  {
+    "id": 28,
+    "name": "Hemel Hempstead Store 3",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 29,
+    "name": "St Albans Store 3",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 30,
+    "name": "Luton Store 3",
+    "location": "Bedfordshire"
+  },
+  {
+    "id": 31,
+    "name": "Aylesbury Store 4",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 32,
+    "name": "Watford Store 4",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 33,
+    "name": "High Wycombe Store 4",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 34,
+    "name": "Milton Keynes Store 4",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 35,
+    "name": "Oxford Store 4",
+    "location": "Oxfordshire"
+  },
+  {
+    "id": 36,
+    "name": "Reading Store 4",
+    "location": "Berkshire"
+  },
+  {
+    "id": 37,
+    "name": "Slough Store 4",
+    "location": "Berkshire"
+  },
+  {
+    "id": 38,
+    "name": "Hemel Hempstead Store 4",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 39,
+    "name": "St Albans Store 4",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 40,
+    "name": "Luton Store 4",
+    "location": "Bedfordshire"
+  },
+  {
+    "id": 41,
+    "name": "Aylesbury Store 5",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 42,
+    "name": "Watford Store 5",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 43,
+    "name": "High Wycombe Store 5",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 44,
+    "name": "Milton Keynes Store 5",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 45,
+    "name": "Oxford Store 5",
+    "location": "Oxfordshire"
+  },
+  {
+    "id": 46,
+    "name": "Reading Store 5",
+    "location": "Berkshire"
+  },
+  {
+    "id": 47,
+    "name": "Slough Store 5",
+    "location": "Berkshire"
+  },
+  {
+    "id": 48,
+    "name": "Hemel Hempstead Store 5",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 49,
+    "name": "St Albans Store 5",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 50,
+    "name": "Luton Store 5",
+    "location": "Bedfordshire"
+  },
+  {
+    "id": 51,
+    "name": "Aylesbury Store 6",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 52,
+    "name": "Watford Store 6",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 53,
+    "name": "High Wycombe Store 6",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 54,
+    "name": "Milton Keynes Store 6",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 55,
+    "name": "Oxford Store 6",
+    "location": "Oxfordshire"
+  },
+  {
+    "id": 56,
+    "name": "Reading Store 6",
+    "location": "Berkshire"
+  },
+  {
+    "id": 57,
+    "name": "Slough Store 6",
+    "location": "Berkshire"
+  },
+  {
+    "id": 58,
+    "name": "Hemel Hempstead Store 6",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 59,
+    "name": "St Albans Store 6",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 60,
+    "name": "Luton Store 6",
+    "location": "Bedfordshire"
+  },
+  {
+    "id": 61,
+    "name": "Aylesbury Store 7",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 62,
+    "name": "Watford Store 7",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 63,
+    "name": "High Wycombe Store 7",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 64,
+    "name": "Milton Keynes Store 7",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 65,
+    "name": "Oxford Store 7",
+    "location": "Oxfordshire"
+  },
+  {
+    "id": 66,
+    "name": "Reading Store 7",
+    "location": "Berkshire"
+  },
+  {
+    "id": 67,
+    "name": "Slough Store 7",
+    "location": "Berkshire"
+  },
+  {
+    "id": 68,
+    "name": "Hemel Hempstead Store 7",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 69,
+    "name": "St Albans Store 7",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 70,
+    "name": "Luton Store 7",
+    "location": "Bedfordshire"
+  },
+  {
+    "id": 71,
+    "name": "Aylesbury Store 8",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 72,
+    "name": "Watford Store 8",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 73,
+    "name": "High Wycombe Store 8",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 74,
+    "name": "Milton Keynes Store 8",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 75,
+    "name": "Oxford Store 8",
+    "location": "Oxfordshire"
+  },
+  {
+    "id": 76,
+    "name": "Reading Store 8",
+    "location": "Berkshire"
+  },
+  {
+    "id": 77,
+    "name": "Slough Store 8",
+    "location": "Berkshire"
+  },
+  {
+    "id": 78,
+    "name": "Hemel Hempstead Store 8",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 79,
+    "name": "St Albans Store 8",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 80,
+    "name": "Luton Store 8",
+    "location": "Bedfordshire"
+  },
+  {
+    "id": 81,
+    "name": "Aylesbury Store 9",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 82,
+    "name": "Watford Store 9",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 83,
+    "name": "High Wycombe Store 9",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 84,
+    "name": "Milton Keynes Store 9",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 85,
+    "name": "Oxford Store 9",
+    "location": "Oxfordshire"
+  },
+  {
+    "id": 86,
+    "name": "Reading Store 9",
+    "location": "Berkshire"
+  },
+  {
+    "id": 87,
+    "name": "Slough Store 9",
+    "location": "Berkshire"
+  },
+  {
+    "id": 88,
+    "name": "Hemel Hempstead Store 9",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 89,
+    "name": "St Albans Store 9",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 90,
+    "name": "Luton Store 9",
+    "location": "Bedfordshire"
+  },
+  {
+    "id": 91,
+    "name": "Aylesbury Store 10",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 92,
+    "name": "Watford Store 10",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 93,
+    "name": "High Wycombe Store 10",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 94,
+    "name": "Milton Keynes Store 10",
+    "location": "Buckinghamshire"
+  },
+  {
+    "id": 95,
+    "name": "Oxford Store 10",
+    "location": "Oxfordshire"
+  },
+  {
+    "id": 96,
+    "name": "Reading Store 10",
+    "location": "Berkshire"
+  },
+  {
+    "id": 97,
+    "name": "Slough Store 10",
+    "location": "Berkshire"
+  },
+  {
+    "id": 98,
+    "name": "Hemel Hempstead Store 10",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 99,
+    "name": "St Albans Store 10",
+    "location": "Hertfordshire"
+  },
+  {
+    "id": 100,
+    "name": "Luton Store 10",
+    "location": "Bedfordshire"
+  }
+]
