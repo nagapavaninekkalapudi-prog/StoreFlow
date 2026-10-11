@@ -1,0 +1,33 @@
+
+name: Run StoreFlow
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  run-storeflow:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Restore dependencies
+        run: dotnet restore StoreFlow.csproj
+
+      - name: Build application
+        run: dotnet build StoreFlow.csproj --configuration Release
+
+      - name: Run StoreFlow
+        run: |
+          printf '1\n1\n' | dotnet run \
+            --project StoreFlow.csproj \
+            --configuration Release \
+            --no-build
