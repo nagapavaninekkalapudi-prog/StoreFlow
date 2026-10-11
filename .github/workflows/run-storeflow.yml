@@ -8,7 +8,6 @@ on:
         required: true
         default: '1'
         type: string
-
       colleagueId:
         description: 'Enter Colleague ID'
         required: true
@@ -39,8 +38,8 @@ jobs:
 
       - name: Run StoreFlow
         env:
-          STORE_ID: ${{ inputs.storeId }}
-          COLLEAGUE_ID: ${{ inputs.colleagueId }}
+          STORE_ID: ${{ inputs.storeId || '1' }}
+          COLLEAGUE_ID: ${{ inputs.colleagueId || '1' }}
         run: |
           printf '%s\n%s\n' "$STORE_ID" "$COLLEAGUE_ID" | dotnet run \
             --project StoreFlow.csproj \
